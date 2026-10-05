@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # H-TECHIN 509 — 2026
 
 - [Week 1: setup, lesson, and studio](week-1/README.md)
@@ -11,3 +12,7 @@ cd H-TECHIN509-2026
 ```
 
 Keep `rag-starter/` at the repository root; use the same codebase across the course.
+=======
+# FirstAssignmentTechin509
+First playground
+>>>>>>> origin/main
