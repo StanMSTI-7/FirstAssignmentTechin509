@@ -1,5 +1,3 @@
-# My assistant — scoping brief
-
 Replace the prompts with your own answers. Keep this in `docs/SCOPING.md`.
 
 ## Objectives
@@ -79,5 +77,4 @@ Not permitted by default: client-identifying drawings, proprietary trade secrets
 10. Reduce mean time to repair (MTTR) for diagnosed operational problems by ≥30%.
 11. Document measurable cost savings from fixes based on assistant recommendations: average ≥$10,000 per incident or ≥15% reduction in operational maintenance costs within 6 months.
 12. Engineers report that the assistant helped them solve operational problems faster and with greater confidence in ≥80% of cases.
-
 
