@@ -10,7 +10,7 @@ State the required behavior and your acceptance checks. Note whether you wrote t
 
 | Input or condition | Expected result | Command or steps | Actual result |
 |---|---|---|---|
-| | | | |
+| 5 errors | it fixed it | it rewrite the files|  it modified ReadMe, search.py|
 
 ## Evidence
 

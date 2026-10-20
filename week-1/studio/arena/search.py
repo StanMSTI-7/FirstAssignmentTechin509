@@ -1,4 +1,4 @@
-"""Arena starter: deliberately buggy. Repair using the task and checks."""
+"""Document search library for the Arena exercise."""
 import json
 from pathlib import Path
 
